@@ -1,6 +1,6 @@
 # Experiment Report: Data Quality Impact on AI Agent
 
-**Student ID:** AI20K-2A202600238
+**Student ID:** AI20K-0238
 **Name:** Nguyen Van Thuc
 **Date:** 14-04-2026
 
